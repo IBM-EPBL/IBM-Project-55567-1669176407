@@ -14,21 +14,21 @@ The user will login into the website and go through the products available on th
 
 **Batch Name :** B8-2A4E
 
-**Team ID :** PNT2022TMID38912 
+**Team ID :** PNT2022TMID25197
 
 
-**Team Leader :** PARAMESHWARAN V K
+**Team Leader :** ALDRIN PETER H
 
-**Team member :** MANOJ ADHITHYAN A
+**Team member :** LUVANSTIN U
 
-**Team member :** MOHANRAJ M
+**Team member :** STEINS W
 
-**Team member :** DAYANITHI S
+**Team member :** RECKY FAVAN C
 
 # Mentor
-**Industry Mentor(s) Name :** Krishna Chaitanya
+**Industry Mentor(s) Name :** SOWJANYA,SANDEEP
 
-**Faculty Mentor(s) Name :** R SIVARANJINI
+**Faculty Mentor(s) Name :** G.SOWMIYA
 
 # About College
 
@@ -36,10 +36,10 @@ The user will login into the website and go through the products available on th
 Bachelor of Engineering/Technology
 
 **Branch	:**	
-Computer Science Engineering
+Electronics and Communication Engineering
 
 **College	:**	
-KRISHNASAMY COLLEGE OF ENGINEERING AND TECHNOLOGY
+JEPPIAAR INSTITUTE OF TECHNOLOGY
 
 
 
@@ -78,7 +78,7 @@ KRISHNASAMY COLLEGE OF ENGINEERING AND TECHNOLOGY
 
 ## Feedback
 
-If you have any feedback, please reach out to us at parameshvk3232@gmail.com
+If you have any feedback, please reach out to us at peteraldrin@gmail.com
 
 
 
