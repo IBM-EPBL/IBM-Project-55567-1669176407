@@ -1,4 +1,4 @@
-![1668850735951](https://user-images.githubusercontent.com/104810544/202844746-564aef42-1722-4508-a16b-cc8b321e0f48.jpg)
+
 
 # Deployment link :-  https://www.youtube.com/watch?v=PijPa1Nt_zU  
 
@@ -71,7 +71,7 @@ JEPPIAAR INSTITUTE OF TECHNOLOGY
 
 ## Feedback
 
-If you have any feedback, please reach out to us at peteraldrin@gmail.com
+If you have any feedback, please reach out to us at peteraldrin@0921gmail.com
 
 
 
