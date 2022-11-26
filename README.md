@@ -45,10 +45,10 @@ JEPPIAAR INSTITUTE OF TECHNOLOGY
 
 ## Assignment  
 
- - [Team Leader : PARAMESHWARAN V K](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Assignments/Team%20Lead%20-%20PARAMESHWARAN%20VK)
- - [Team member : MANOJ ADHITHYAN A](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Assignments/Team%20member%20%20MANOJ%20ADHITHYAN%20A)
- - [Team member : MOHANRAJ M](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Assignments/Team%20member%20%20MOHANRAJ%20M)
- - [Team member : DAYANITHI S](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Assignments/Team%20member%20%20DAYANITHI%20S)
+ - [Team Leader : ALDRIN PETER H](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Assignments/Team%20Lead%20-%20ALDRIN%20PETER%20H)
+ - [Team member : LUVANSTIN U](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Assignments/Team%20member%20%20%LUVANSTIN%20U)
+ - [Team member : STEINS W](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Assignments/Team%20member%20%20STEINS%20W)
+ - [Team member : RECKY FAVAN C](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Assignments/Team%20member%20%20RECKY%20FAVAN%20C)
 
 
 ## Project Design & Planning
