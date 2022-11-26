@@ -43,13 +43,6 @@ JEPPIAAR INSTITUTE OF TECHNOLOGY
 
 
 
-## Assignment  
-
- - [Team Leader : ALDRIN PETER H](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Assignments/Team%20Lead%20-%20ALDRIN%20PETER%20H)
- - [Team member : LUVANSTIN U](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Assignments/Team%20member%20%20%LUVANSTIN%20U)
- - [Team member : STEINS W](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Assignments/Team%20member%20%20STEINS%20W)
- - [Team member : RECKY FAVAN C](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Assignments/Team%20member%20%20RECKY%20FAVAN%20C)
-
 
 ## Project Design & Planning
 - [Ideation Phase](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Project%20Design%20%26%20Planning/Ideation%20Phase)
@@ -70,10 +63,10 @@ JEPPIAAR INSTITUTE OF TECHNOLOGY
 
 ## Authors
 
-- [@Vkparamesh](https://github.com/Vkparamesh)
-- [@MANOJ ADHITHYAN](https://github.com/MANOJADHITHYAN)
-- [@DAYANITHI](https://github.com/kalaitamizhan)
-- [@MOHAN RAJ](https://github.com/mohanrajdoctor)
+- [@ALDRINPETER](https://github.com/ALDRINPETER)
+- [@LUVANSTIN](https://github.com/LUVANSTIN)
+- [@STEINS](https://github.com/STEINS)
+- [@RECKY FAVAN ](https://github.com/RECKY FAVAN)
 
 
 ## Feedback
