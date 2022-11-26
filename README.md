@@ -64,7 +64,7 @@ JEPPIAAR INSTITUTE OF TECHNOLOGY
 
 ## Feedback
 
-If you have any feedback, please reach out to us at peteraldrin@0921gmail.com
+If you have any feedback, please reach out to us at Peteraldrin@0921gmail.com
 
 
 
